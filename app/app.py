@@ -64,10 +64,10 @@ BAND_ORDER = ["Good (70-100)", "Partial (40-69)", "Poor (0-39)"]
 # ── Data loading ──────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    master = pd.read_csv("data/Station_Accessibility_Master.csv")
-    lifts  = pd.read_csv("data/Lift_Details.csv")
-    toilets = pd.read_csv("data/Toilet_Details.csv")
-    platforms = pd.read_csv("data/Platform_Services_Detail.csv")
+    master = pd.read_csv("app/data/Station_Accessibility_Master.csv")
+    lifts  = pd.read_csv("app/data/Lift_Details.csv")
+    toilets = pd.read_csv("app/data/Toilet_Details.csv")
+    platforms = pd.read_csv("app/data/Platform_Services_Detail.csv")
 
     master["AccessibilityBand"] = pd.Categorical(
         master["AccessibilityBand"], categories=BAND_ORDER, ordered=True
