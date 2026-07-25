@@ -1,0 +1,510 @@
+UniqueId,Name,FareZones,PrimaryZone,LinesServed,Wifi,BlueBadgeCarParking,BlueBadgeCarParkSpaces,TaxiRanksOutsideStation,MainBusInterchange,NationalRailInterchange,AirportInterchange,TotalLifts,LimitedCapacityLifts,TotalPlatforms,PlatformsWithStepFree,StepFreePlatformPct,TotalToilets,AccessibleToilets,FreeToilets,HasBabyChanging,TotalPlatformSvc,LevelAccessPlatforms,RampAccessPlatforms,LevelAccessPct,RampRouteCount,StepFreeInterchangeCount,AvgInterchangeDistM,MaxInterchangeDistM,HasLift,HasAccessibleToilet,HasRamp,AccessibilityScore,AccessibilityBand,Lat,Lon
+HUBABW,Abbey Wood,4,4,"elizabeth, national-rail",False,False,,False,False,False,False,6,0,4,4,1.0,3,1,3,False,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.49130881818182,0.12123390909090909
+910GACTNCTL,Acton Central,3,3,mildmay,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.50836742857143,-0.2631112857142857
+910GACTONML,Acton Main Line,3,3,elizabeth,False,False,,False,False,False,False,2,0,2,2,1.0,1,1,1,False,2,0,2,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.51707066666666,-0.26787500000000003
+910GANERLEY,Anerley,4,4,"national-rail, windrush",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.41237885714286,-0.06558242857142857
+910GBCKNHMH,Beckenham Hill,4,4,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.42456571428572,-0.016046285714285714
+910GBELNGHM,Bellingham,3,3,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.433092599999995,-0.019628
+910GBHILLPK,Bush Hill Park,5,5,weaver,True,True,2.0,False,False,False,False,0,0,2,2,1.0,3,1,3,True,2,0,2,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.64155685714286,-0.069234
+910GBICKLEY,Bickley,5,5,national-rail,False,False,,False,False,False,False,0,0,4,0,0.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.3998922,0.0453258
+910GBNHAM,Burnham,Outside,Unknown,"elizabeth, national-rail",False,False,,False,False,False,False,1,0,2,2,1.0,3,1,3,True,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.5233945,-0.6462498333333334
+910GBRBY,Brondesbury,2,2,mildmay,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.545188800000005,-0.2022932
+910GBRBYPK,Brondesbury Park,2,2,mildmay,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.5406976,-0.2100352
+910GBRENTX,Brent Cross West Station,3,3,national-rail,False,False,,False,False,False,False,5,0,4,4,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.568034090909094,-0.225068
+910GBROCKLY,Brockley,2,2,"national-rail, windrush",True,False,,False,False,False,False,1,0,2,2,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.464160428571425,-0.03770342857142857
+910GBROMLYS,Bromley South,5,5,national-rail,False,False,,False,False,False,False,2,0,4,4,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.40006157142857,0.01781
+910GBRTWOOD,Brentwood,9,9,elizabeth,True,True,17.0,False,False,False,False,2,0,4,4,1.0,3,1,3,True,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.61367057142858,0.29957257142857147
+910GBRUCGRV,Bruce Grove,3,3,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.59391071428571,-0.070063
+910GBTHNLGR,Bethnal Green,2,2,weaver,True,False,,False,False,False,False,0,0,2,1,0.5,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,12.5,Poor (0-39),51.5238305,-0.059741
+910GCAMHTH,Cambridge Heath,2,2,weaver,False,False,,False,False,False,False,0,0,2,1,0.5,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,12.5,Poor (0-39),51.5322872,-0.0574648
+910GCATFORD,Catford,3,3,national-rail,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.44439025,-0.02624175
+910GCFPK,Crofton Park,3,3,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.4549515,-0.03637825
+910GCHDWLHT,Chadwell Heath,5,5,elizabeth,False,False,,False,False,False,False,3,0,4,4,1.0,1,1,1,False,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.56809828571428,0.1296867142857143
+910GCHESHNT,Cheshunt,8,8,"national-rail, weaver",True,True,5.0,False,False,False,False,0,0,3,3,1.0,3,1,3,False,3,0,3,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.70280828571429,-0.023625714285714285
+910GCHINGFD,Chingford,5,5,weaver,True,True,3.0,False,False,False,False,0,0,3,3,1.0,3,1,3,True,3,0,3,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.633359999999996,0.010104499999999999
+910GCLAPTON,Clapton,2|3,2,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,1,1,1,True,2,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.56171440000001,-0.057042
+910GCLDNNRB,Caledonian Road & Barnsbury,2,2,mildmay,False,False,,False,False,False,False,1,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.54314975,-0.11593149999999999
+910GCLPHHS,Clapham High Street,2,2,windrush,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.4653415,-0.13207025
+910GCMDNRD,Camden Road,2,2,mildmay,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.54178566666667,-0.13876366666666665
+910GCNNB,Canonbury,2,2,"mildmay, windrush",False,False,,False,False,False,False,3,0,4,4,1.0,0,0,0,,4,2,2,0.5,0,0,,,1,0,0,62.5,Partial (40-69),51.548741,-0.092658
+910GCOLSDNS,Coulsdon South,6,6,national-rail,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.31585016666667,-0.13790116666666666
+910GCRKLWD,Cricklewood,3,3,national-rail,True,False,,False,False,False,False,0,0,4,1,0.25,0,0,0,,4,0,1,0.0,0,0,,,0,0,0,6.2,Poor (0-39),51.558662000000005,-0.212703
+910GCRLN,Charlton,3,3,national-rail,False,False,,False,False,False,False,1,0,2,0,0.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,30.0,Poor (0-39),51.486840571428566,0.031213571428571427
+910GCROUCHH,Crouch Hill,3,3,suffragette,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.5713605,-0.11708116666666667
+910GCRPNDPK,Carpenders Park,7,7,lioness,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.62840333333333,-0.3857446666666667
+910GCRSHLTN,Carshalton,5,5,national-rail,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.36845185714286,-0.16680771428571428
+910GCTMSLNK,City Thameslink,1,1,national-rail,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.51503475,-0.103648375
+910GDALS,Dalston Junction,2,2,windrush,False,False,,False,False,False,False,1,0,4,4,1.0,1,1,1,False,4,4,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.54586314285714,-0.07511528571428572
+910GDALSKLD,Dalston Kingsland,2,2,mildmay,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.548278,-0.075949
+910GDARTFD,Dartford,8,8,national-rail,False,False,,False,False,False,False,3,0,4,4,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.4475275,0.21832483333333333
+910GDENMRKH,Denmark Hill,2,2,"national-rail, windrush",True,False,,False,False,False,False,3,0,4,4,1.0,1,1,1,False,6,0,6,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.46817983333333,-0.08943383333333334
+910GDEPTFD,Deptford,2,2,national-rail,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.478952400000004,-0.0263692
+910GEDMNGRN,Edmonton Green,4,4,weaver,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.6248212,-0.0613626
+910GELTR,Elstree & Borehamwood,6,6,national-rail,True,False,,False,False,False,False,3,0,4,4,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.652950875,-0.2798565
+910GEMRSPKH,Emerson Park,6,6,liberty,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.56887025,0.2199765
+910GENFLDTN,Enfield Town,5,5,weaver,True,False,,False,False,False,False,0,0,1,1,1.0,3,1,3,True,1,0,1,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.652236800000004,-0.0793562
+910GESTFLDS,Mitcham Eastfields,3,3,national-rail,False,False,,False,False,False,False,2,0,2,0,0.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,30.0,Poor (0-39),51.40776927272727,-0.1546499090909091
+910GFNCHLYR,Finchley Road & Frognal,2,2,mildmay,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.55009299999999,-0.1833494
+910GFORESTH,Forest Hill,3,3,"national-rail, windrush",False,True,1.0,False,False,False,False,2,0,2,2,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.439356375,-0.053254499999999996
+910GFRSTGT,Forest Gate,3,3,elizabeth,False,False,,False,False,False,False,3,0,4,4,1.0,1,1,1,False,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.549426125000004,0.024331125000000002
+910GGIDEAPK,Gidea Park,6,6,elizabeth,True,False,,False,False,False,False,3,0,4,4,1.0,3,1,3,False,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.58192185714285,0.20580642857142856
+910GGODMAYS,Goodmayes,4,4,elizabeth,True,False,,False,False,False,False,2,0,4,3,0.75,1,1,1,False,4,0,4,0.0,0,0,,,1,1,0,68.8,Partial (40-69),51.56556928571428,0.11089928571428573
+910GGOSPLOK,Gospel Oak,2,2,"mildmay, suffragette",True,False,,False,False,False,False,2,0,3,3,1.0,3,1,3,True,3,0,3,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.555272125,-0.151207125
+910GHACKNYC,Hackney Central,2,2,mildmay,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.547236125,-0.05627725
+910GHACKNYW,Hackney Wick,2,2,mildmay,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.54321142857143,-0.025264
+910GHAGGERS,Haggerston,2,2,windrush,False,False,,False,False,False,False,2,0,2,2,1.0,1,1,1,False,2,2,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.53851,-0.07550899999999999
+910GHAKNYNM,Hackney Downs,2,2,"national-rail, weaver",True,False,,False,False,False,False,1,0,4,4,1.0,0,0,0,,8,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.54869425,-0.060899375
+910GHANWELL,Hanwell,4,4,elizabeth,False,False,,False,False,False,False,2,0,2,2,1.0,1,1,1,False,2,0,2,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.512066,-0.3381981666666667
+910GHAYESAH,Hayes & Harlington,5,5,"elizabeth, national-rail",False,False,,False,False,False,False,4,0,5,5,1.0,3,1,3,False,9,0,9,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.503143875,-0.42031799999999997
+910GHDON,Hendon,3|4,3,national-rail,True,False,,False,False,False,False,0,0,4,0,0.0,0,0,0,,4,0,1,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.58016057142857,-0.23878185714285713
+910GHEDSTNL,Headstone Lane,5,5,lioness,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,1,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.60254514285714,-0.35680885714285715
+910GHERNEH,Herne Hill,2|3,2,national-rail,False,False,,False,False,False,False,2,0,4,4,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.45311757142857,-0.10216957142857143
+910GHGHMSPK,Highams Park,4,4,weaver,True,True,2.0,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.608405,-0.0003722222222222222
+910GHKBG,Hackbridge,4,4,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.377714166666664,-0.1536335
+910GHMPSTDH,Hampstead Heath,2,2,mildmay,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.5553285,-0.16534325
+910GHOMRTON,Homerton,2,2,mildmay,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.547058400000004,-0.0426492
+910GHONROPK,Honor Oak Park,3,3,"national-rail, windrush",True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.45009280000001,-0.0454694
+910GHOXTON,Hoxton,1|2,1,windrush,False,False,,False,False,False,False,2,0,2,2,1.0,1,1,1,False,2,2,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.5312375,-0.07570266666666667
+910GHRGYGL,Harringay Green Lanes,3,3,suffragette,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.57723983333333,-0.09848516666666667
+910GHRLDWOD,Harold Wood,6,6,elizabeth,False,True,2.0,False,False,False,False,3,0,4,4,1.0,3,1,3,False,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.593182875,0.2334685
+910GHTCHEND,Hatch End,6,6,lioness,False,True,2.0,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,1,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.609406166666666,-0.3687123333333333
+910GHYDNSRD,Haydons Road,3,3,national-rail,False,False,,False,False,False,False,0,0,2,1,0.5,0,0,0,,2,0,1,0.0,0,0,,,0,0,0,12.5,Poor (0-39),51.425359166666674,-0.1891035
+910GILFORD,Ilford,4,4,elizabeth,False,False,,False,False,False,False,3,0,4,4,1.0,3,1,3,False,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.5589816,0.0687643
+910GIVER,Iver,Outside,Unknown,"elizabeth, national-rail",False,False,,False,False,False,False,3,0,4,4,1.0,1,1,1,False,8,0,8,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.50851,-0.5066105
+910GKENR,Kensal Rise,2,2,mildmay,True,False,,False,False,False,False,1,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.534456285714285,-0.21982085714285712
+910GKLBRNHR,Kilburn High Road,2,2,lioness,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.53758860000001,-0.192127
+910GKNTSHTW,Kentish Town West,2,2,mildmay,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.5466038,-0.1466734
+910GLANGLEY,Langley,Outside,Unknown,"elizabeth, national-rail",False,False,,False,False,False,False,3,0,4,4,1.0,3,1,3,False,8,0,8,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.50793554545455,-0.5420943636363637
+910GLBGHJN,Loughborough Junction,2,2,national-rail,True,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.466109200000005,-0.102213
+910GLEYTNMR,Leyton Midland Road,3,3,suffragette,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.569678571428575,-0.007807142857142857
+910GLONFLDS,London Fields,2,2,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.541274599999994,-0.0579298
+910GLYTNSHR,Leytonstone High Road,3,3,suffragette,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.563505666666664,0.008443166666666667
+910GMANRPK,Manor Park,3|4,3,elizabeth,True,False,,False,False,False,False,3,0,4,4,1.0,1,1,1,False,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.552338,0.046014
+910GMAZEH,Maze Hill,3,3,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.482764599999996,0.0030528
+910GMDNHEAD,Maidenhead,Outside,Unknown,"elizabeth, national-rail",True,False,,False,False,False,False,2,0,5,5,1.0,3,1,3,False,10,0,10,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.5185375,-0.72253075
+910GMLHB,Mill Hill Broadway,4,4,national-rail,True,False,,False,False,False,False,0,0,4,0,0.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.61324725,-0.24931675
+910GMORDENS,Morden South,4,4,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.39643133333333,-0.19997566666666666
+910GMRYLAND,Maryland,3,3,elizabeth,True,False,,False,False,False,False,3,0,4,4,1.0,1,1,1,False,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.54611988888889,0.005800888888888888
+910GNBARNET,New Barnet,5,5,national-rail,True,False,,False,False,False,False,0,0,4,0,0.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.64859728571428,-0.17290342857142857
+910GNEWSGAT,New Southgate,4,4,national-rail,False,False,,False,False,False,False,0,0,4,0,0.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.614529714285716,-0.14338414285714288
+910GNUNHEAD,Nunhead,2,2,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.46664766666667,-0.051786
+910GOKLGHPK,Oakleigh Park,4,4,national-rail,True,False,,False,False,False,False,0,0,4,0,0.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.63756985714286,-0.16613128571428573
+910GORPNGTN,Orpington,6,6,national-rail,False,False,,False,False,False,False,3,0,8,8,1.0,0,0,0,,8,0,1,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.373564769230775,0.0886263846153846
+910GPCKHMQD,Queens Road Peckham,2,2,"national-rail, windrush",True,False,,False,False,False,False,1,0,2,2,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.47370225,-0.057466249999999997
+910GPCKHMRY,Peckham Rye,2,2,"national-rail, windrush",False,False,,False,False,False,False,0,0,4,2,0.5,0,0,0,,6,0,0,0.0,0,0,,,0,0,0,12.5,Poor (0-39),51.46993883333334,-0.069644
+910GPENEW,Penge West,4,4,"national-rail, windrush",True,True,2.0,False,False,False,False,0,0,2,2,1.0,3,1,3,True,4,0,2,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.417596333333336,-0.06099383333333333
+910GPETSWD,Petts Wood,5,5,national-rail,False,False,,False,False,False,False,4,0,4,4,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.38878783333334,0.07422716666666666
+910GPLMS,Plumstead,4,4,national-rail,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.48959885714286,0.085013
+910GPURLEY,Purley,6,6,national-rail,True,False,,False,False,False,False,4,0,6,6,1.0,0,0,0,,6,0,6,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.337672222222224,-0.113797
+910GRBRN,Ravensbourne,4,4,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,1,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.413969599999994,-0.0071638000000000005
+910GRCTRYRD,Rectory Road,2,2,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.55890775,-0.06868625
+910GRDNGSTN,Reading,Outside,Unknown,"elizabeth, national-rail",False,False,,False,False,False,False,5,0,1,1,1.0,3,1,3,True,2,0,2,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.458689166666666,-0.97179575
+910GROMFORD,Romford,6,6,"elizabeth, liberty, national-rail",True,False,,False,False,False,False,2,0,5,5,1.0,3,1,3,False,9,0,9,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.5746559090909,0.18295627272727275
+910GRTHERHI,Rotherhithe,2,2,windrush,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.50085933333333,-0.05210416666666667
+910GSACTON,South Acton,3,3,mildmay,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.499613714285715,-0.269977
+910GSBURY,Southbury,5,5,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.6484785,-0.0527175
+910GSCROYDN,South Croydon,5,5,national-rail,True,False,,False,False,False,False,0,0,5,1,0.2,0,0,0,,5,0,1,0.0,0,0,,,0,0,0,5.0,Poor (0-39),51.36282728571428,-0.09371671428571428
+910GSHENFLD,Shenfield,Outside,Unknown,"elizabeth, national-rail",True,False,,False,False,False,False,3,0,6,2,0.333,3,1,3,False,6,0,6,0.0,0,0,,,1,1,0,58.3,Partial (40-69),51.63085266666667,0.3297995
+910GSHLIER,St Helier (London),4,4,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.38987966666667,-0.19788533333333333
+910GSHMPSTD,South Hampstead,2,2,lioness,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.541563,-0.17886875
+910GSHRDHST,Shoreditch High Street,1,1,windrush,False,False,,False,False,False,False,2,0,2,2,1.0,1,1,1,False,2,2,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.5232525,-0.0765847
+910GSHRTLND,Shortlands,4,4,national-rail,False,False,,False,False,False,False,3,0,4,4,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.4059415,0.0018495
+910GSIVRST,Silver Street,4,4,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.615309249999996,-0.06696075
+910GSLADEGN,Slade Green,6,6,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.467694375,0.190379125
+910GSLOUGH,Slough,Outside,Unknown,"elizabeth, national-rail",True,False,,False,False,False,False,3,0,5,5,1.0,3,1,3,False,9,0,9,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.511976250000004,-0.591388375
+910GSMERTON,South Merton,4,4,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.402803000000006,-0.20517433333333335
+910GSTHALL,Southall,4,4,"elizabeth, national-rail",False,False,,False,False,False,False,3,0,4,2,0.5,3,1,3,True,8,0,8,0.0,0,0,,,1,1,0,62.5,Partial (40-69),51.50596983333333,-0.3781653333333333
+910GSTJMSST,St James Street,3,3,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.5810692,-0.0326952
+910GSTKNWNG,Stoke Newington,2,2,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.564951,-0.07262266666666667
+910GSTMFDHL,Stamford Hill,3,3,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.574712999999996,-0.076631
+910GSTMRYC,St Mary Cray,6,6,national-rail,False,False,,False,False,False,False,2,0,4,4,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.39506866666667,0.10694683333333332
+910GSTOTNHM,South Tottenham,3,3,suffragette,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.58052933333334,-0.07218983333333333
+910GSTRETHM,Streatham,3,3,national-rail,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.42597383333333,-0.13097316666666667
+910GSURREYQ,Surrey Quays,2,2,windrush,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.49331771428571,-0.04772314285714285
+910GSUTTON,Sutton,5,5,national-rail,True,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.359569727272735,-0.19056972727272728
+910GSUTTONC,Sutton Common,4,4,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.37498566666667,-0.1965876666666667
+910GSVNKNGS,Seven Kings,4,4,"elizabeth, national-rail",True,False,,False,False,False,False,3,0,4,4,1.0,1,1,1,False,6,0,6,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.563963125,0.097074125
+910GSWLY,Swanley,8,8,national-rail,False,False,,False,False,False,False,2,0,4,4,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.39342133333333,0.168556
+910GTAPLOW,Taplow,Outside,Unknown,"elizabeth, national-rail",False,False,,False,False,False,False,3,0,4,4,1.0,3,1,3,False,8,0,8,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.523419625,-0.6815076250000001
+910GTHBLDSG,Theobalds Grove,7,7,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.6922452,-0.035101
+910GTOOTING,Tooting,3,3,national-rail,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.4198905,-0.161192
+910GTULSEH,Tulse Hill,3,3,national-rail,True,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.439856999999996,-0.10505455555555555
+910GTURKYST,Turkey Street,6,6,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.67232366666667,-0.046227
+910GTWYFORD,Twyford,Outside,Unknown,"elizabeth, national-rail",True,False,,False,False,False,False,3,0,5,5,1.0,3,1,3,False,9,0,9,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.475463000000005,-0.8632431111111111
+910GUPRHLWY,Upper Holloway,2,2,suffragette,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.56360216666667,-0.12968233333333334
+910GWAPPING,Wapping,2,2,windrush,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.504577833333336,-0.056004500000000006
+910GWATFDHS,Watford High Street,8,8,lioness,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.65229866666667,-0.39187333333333335
+910GWCOMBEP,Westcombe Park,3,3,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.484167285714285,0.018771714285714284
+910GWDGRNPK,Woodgrange Park,3|4,3,suffragette,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.549260600000004,0.044201000000000004
+910GWDRYTON,West Drayton,6,6,"elizabeth, national-rail",False,False,,False,False,False,False,5,0,5,5,1.0,3,1,3,False,9,0,9,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.50988766666667,-0.4722671111111111
+910GWDST,Wood Street,4,4,weaver,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.586710000000004,-0.0024052
+910GWEALING,West Ealing,3,3,"elizabeth, national-rail",False,False,,False,False,False,False,2,0,3,3,1.0,1,1,1,False,5,0,5,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.513642000000004,-0.32099859999999997
+910GWHHRTLA,White Hart Lane,3,3,weaver,True,False,,False,False,False,False,2,0,2,2,1.0,3,3,3,True,2,0,2,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.60521266666667,-0.070201
+910GWHMDSTD,West Hampstead,2,2,mildmay,True,False,,False,False,False,False,2,0,2,2,1.0,3,1,3,True,2,0,2,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.54736725,-0.191639
+910GWHMPSTM,West Hampstead Thameslink,2,2,national-rail,True,False,,False,False,False,False,3,0,4,0,0.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,30.0,Poor (0-39),51.548389799999995,-0.19202170000000002
+910GWIMLCHS,Wimbledon Chase,3,3,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.40941433333333,-0.21396
+910GWLTHQRD,Walthamstow Queen's Road,3,3,suffragette,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.58159975,-0.0240835
+910GWNDSWRD,Wandsworth Road,2,2,windrush,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.470104,-0.13850142857142858
+910GWNSTDPK,Wanstead Park,3,3,suffragette,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.5517354,0.025536999999999997
+910GWSUTTON,West Sutton,5,5,national-rail,False,False,,False,False,False,False,0,0,2,0,0.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.36603933333333,-0.20528066666666667
+940GZZALGWP,Greenwich Peninsula,Outside,Unknown,london-cable-car,False,False,,False,False,False,False,0,0,1,1,1.0,3,1,3,True,1,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.49983433333333,0.008029333333333333
+940GZZALRDK,Royal Docks,Outside,Unknown,london-cable-car,False,False,,False,False,False,False,0,0,1,1,1.0,0,0,0,,1,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.50772625,0.0177335
+940GZZCRADD,Addiscombe,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.3799155,-0.0731765
+940GZZCRADV,Addington Village,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.356356,-0.032416
+940GZZCRAMP,Ampere Way,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.38220666666666,-0.12365033333333332
+940GZZCRARA,Arena,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.39037325,-0.05773475
+940GZZCRAVE,Avenue Road,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.406842499999996,-0.049179
+940GZZCRBED,Beddington Lane,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.38886166666666,-0.14173233333333332
+940GZZCRBGV,Belgrave Walk,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.400546750000004,-0.1785595
+940GZZCRBLA,Blackhorse Lane,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.385018333333335,-0.07103533333333334
+940GZZCRBRD,Beckenham Road,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.409408000000006,-0.043469
+940GZZCRCEN,George Street,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,1,1,1.0,0,0,0,,1,1,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.373953,-0.098776
+940GZZCRCHR,Church Street,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,1,1,1.0,0,0,0,,1,1,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.37392233333333,-0.10489366666666666
+940GZZCRCOO,Coombe Lane,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.359625400000006,-0.058553
+940GZZCRCTR,Centrale,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,1,1,1.0,0,0,0,,1,1,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.37593433333333,-0.10364166666666667
+940GZZCRDDR,Dundonald Road,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.4174935,-0.207595
+940GZZCRFLD,Fieldway,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.35110433333333,-0.02414833333333333
+940GZZCRGRA,Gravel Hill,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.3541985,-0.041456
+940GZZCRHAR,Harrington Road,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.399483000000004,-0.0603105
+940GZZCRKGH,King Henry's Drive,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.345591999999996,-0.020470000000000002
+940GZZCRLEB,Lebanon Road,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.375199,-0.08480566666666667
+940GZZCRLOY,Lloyd Park,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.364255333333325,-0.08209766666666667
+940GZZCRMCH,Mitcham,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.397641666666665,-0.17261466666666667
+940GZZCRMDN,Morden Road,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.40892333333333,-0.19247766666666666
+940GZZCRMTP,Merton Park,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.41434666666667,-0.201688
+940GZZCRNWA,New Addington,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,1,1,1.0,0,0,0,,1,1,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.342797,-0.017542000000000002
+940GZZCRPHI,Phipps Bridge,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.40386166666667,-0.18206666666666668
+940GZZCRRVC,Reeves Corner,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,1,1,1.0,0,0,0,,1,1,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.374807000000004,-0.1062415
+940GZZCRSAN,Sandilands,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.37510866666667,-0.07872233333333334
+940GZZCRTPA,Therapia Lane,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.3856425,-0.129281
+940GZZCRWAD,Waddon Marsh,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.37741925,-0.11864175
+940GZZCRWAN,Wandle Park,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.3732825,-0.1131935
+940GZZCRWEL,Wellesley Road,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,1,1,1.0,0,0,0,,1,1,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.375457,-0.097478
+940GZZCRWOD,Woodside,Trams fare zone,Unknown,tram,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.387426500000004,-0.064708
+940GZZDLABR,Abbey Road,2|3,2,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.53240985714286,0.0037701428571428573
+940GZZDLALL,All Saints,2,2,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.511110599999995,-0.013087199999999998
+940GZZDLBEC,Beckton,3,3,dlr,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.514414599999995,0.0609016
+940GZZDLBLA,Blackwall,2,2,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.508068,-0.006775666666666667
+940GZZDLBOW,Bow Church,2,2,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.5277456,-0.020872
+940GZZDLBPK,Beckton Park,3,3,dlr,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.5089756,0.0549724
+940GZZDLCLA,Crossharbour,2,2,dlr,False,False,,False,False,False,False,2,2,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.49565142857143,-0.014424428571428572
+HUBCUS,Custom House for ExCel,3,3,"dlr, elizabeth",False,False,,False,False,False,False,4,0,4,4,1.0,1,1,1,True,4,0,0,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.50969442857143,0.0267165
+940GZZDLCYP,Cyprus,3,3,dlr,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.508506833333335,0.0640345
+940GZZDLDEP,Deptford Bridge,2|3,2,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.474503,-0.022677625
+940GZZDLDEV,Devons Road,2,2,dlr,False,False,,False,False,False,False,2,2,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.52263083333333,-0.017434333333333333
+940GZZDLEIN,East India,2|3,2,dlr,False,False,,False,False,False,False,3,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.50951033333333,-0.002139666666666667
+940GZZDLELV,Elverson Road,2|3,2,dlr,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.46865516666667,-0.016804166666666665
+940GZZDLGAL,Gallions Reach,3,3,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.508870200000004,0.0719956
+940GZZDLHEQ,Heron Quays,2,2,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.503189,-0.0213366
+940GZZDLISL,Island Gardens,2,2,dlr,False,False,,False,False,False,False,1,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.487916,-0.01034325
+940GZZDLKGV,King George V,3,3,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.501966,0.062334
+940GZZDLLDP,Langdon Park,2,2,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.51507157142857,-0.014255285714285715
+940GZZDLMUD,Mudchute,2,2,dlr,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.49101971428571,-0.014848
+940GZZDLPDK,Pontoon Dock,3,3,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.50234825,0.03336425
+940GZZDLPOP,Poplar,2,2,dlr,False,False,,False,False,False,False,2,2,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.507710375,-0.017462875
+940GZZDLPRE,Prince Regent,3,3,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.50935460000001,0.0337532
+940GZZDLPUD,Pudding Mill Lane,2|3,2,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.53402225,-0.01317125
+940GZZDLRAL,Royal Albert,3,3,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.508292,0.046027200000000004
+940GZZDLRVC,Royal Victoria,3,3,dlr,False,False,,False,False,False,False,3,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.5091865,0.0184515
+940GZZDLSHS,Stratford High Street,2|3,2,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.537916833333334,-0.00038150000000000006
+940GZZDLSIT,Stratford International,2|3,2,dlr,False,False,,False,False,False,False,3,0,2,2,1.0,3,1,3,True,2,0,0,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.54572149999999,-0.009147
+940GZZDLSOQ,South Quay,2,2,dlr,False,False,,False,False,False,False,2,2,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.50005783333334,-0.0162
+940GZZDLSTL,Star Lane,2|3,2,dlr,False,False,,False,False,False,False,3,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.520756857142864,0.004282
+940GZZDLWFE,Westferry,2,2,dlr,False,False,,False,False,False,False,4,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.509218,-0.0263672
+940GZZDLWIQ,West India Quay,2,2,dlr,False,False,,False,False,False,False,2,2,3,3,1.0,0,0,0,,3,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.507095,-0.02043475
+940GZZDLWSV,West Silvertown,3,3,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.5028238,0.022837
+940GZZLUACT,Acton Town,3,3,"district, piccadilly",True,False,,False,False,False,False,2,0,4,4,1.0,3,1,3,True,6,0,6,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.50296555555556,-0.2802088888888889
+940GZZLUACY,Archway,2|3,2,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.56517225,-0.134901875
+940GZZLUADE,Aldgate East,1,1,"district, hammersmith-city",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51545708333333,-0.07114325
+940GZZLUAGL,Angel,1,1,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.532290375,-0.10594100000000001
+940GZZLUALD,Aldgate,1,1,"circle, metropolitan",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51412125,-0.075524625
+940GZZLUALP,Alperton,4,4,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.540664666666665,-0.299392
+940GZZLUASG,Arnos Grove,4,4,piccadilly,True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.61622918181818,-0.1334061818181818
+940GZZLUASL,Arsenal,2,2,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.558435599999996,-0.1063096
+940GZZLUBBB,Bromley-by-Bow,2|3,2,"district, hammersmith-city",True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.52452455555556,-0.01157111111111111
+940GZZLUBBN,Barbican,1,1,"circle, hammersmith-city, metropolitan",True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,6,3,0,0.5,0,0,,,1,0,0,62.5,Partial (40-69),51.52004311111111,-0.09838544444444444
+940GZZLUBDS,Bounds Green,3|4,3,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.607101375,-0.12445225
+940GZZLUBEC,Becontree,5,5,district,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,True,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.54029083333333,0.12727133333333332
+940GZZLUBKE,Barkingside,4,4,central,True,True,2.0,False,False,False,False,0,0,2,2,1.0,2,0,2,True,2,0,1,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.58592214285714,0.08807785714285714
+940GZZLUBKH,Buckhurst Hill,5,5,central,True,True,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.626189857142855,0.04672
+940GZZLUBLG,Bethnal Green,2,2,central,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52735058333334,-0.0553035
+940GZZLUBMY,Bermondsey,2,2,jubilee,True,False,,False,False,False,False,1,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.49793185714286,-0.06390728571428571
+HUBBDS,Bond Street,1,1,"central, elizabeth, jubilee",False,False,,False,False,False,False,6,0,6,6,1.0,0,0,0,,6,3,3,0.5,0,0,,,1,0,0,62.5,Partial (40-69),51.514058142857145,-0.14856589285714286
+940GZZLUBOR,Borough,1,1,northern,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,1,0,0.5,0,0,,,1,0,0,62.5,Partial (40-69),51.500966428571424,-0.09331371428571429
+940GZZLUBOS,Boston Manor,4,4,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.495736,-0.3247195
+940GZZLUBSC,Barons Court,2,2,"district, piccadilly",True,False,,False,False,False,False,0,0,4,4,1.0,2,0,2,False,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.490375,-0.213757625
+940GZZLUBST,Baker Street,1,1,"bakerloo, circle, hammersmith-city, jubilee, metropolitan",True,False,,False,False,False,False,0,0,10,10,1.0,2,0,2,True,12,2,1,0.167,0,0,,,0,0,0,27.5,Poor (0-39),51.5227259,-0.15720875
+940GZZLUBTK,Burnt Oak,4,4,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.60271716666667,-0.26399716666666667
+940GZZLUBTX,Brent Cross,3,3,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.576728571428575,-0.2134277142857143
+940GZZLUBWR,Bow Road,2,2,"district, hammersmith-city",False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52701183333334,-0.024992666666666667
+940GZZLUBWT,Bayswater,1,1,"circle, district",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51237716666666,-0.1878695
+940GZZLUBZP,Belsize Park,2,2,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.55041542857143,-0.16463314285714287
+940GZZLUCAR,Caledonian Road,2,2,piccadilly,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.548634166666666,-0.11824583333333333
+940GZZLUCFM,Chalk Farm,2,2,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.54417314285714,-0.15364328571428573
+940GZZLUCGN,Covent Garden,1,1,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51306475,-0.12416475
+940GZZLUCHL,Chancery Lane,1,1,central,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.518185125,-0.1117045
+940GZZLUCKS,Cockfosters,5,5,piccadilly,True,False,,False,False,False,False,1,0,4,4,1.0,2,0,2,False,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.65154855555556,-0.14952155555555555
+940GZZLUCND,Colindale,4,4,northern,True,False,,False,False,False,False,1,0,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.595408166666665,-0.24985733333333335
+940GZZLUCPC,Clapham Common,2,2,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.4617973,-0.1380949
+940GZZLUCPK,Canons Park,5,5,jubilee,True,False,,False,False,False,False,0,0,2,2,1.0,3,1,3,True,2,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.60773171428571,-0.2947042857142857
+940GZZLUCPN,Clapham North,2,2,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.46515828571428,-0.1297932857142857
+940GZZLUCPS,Clapham South,2|3,2,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.452799666666664,-0.14773916666666667
+940GZZLUCSD,Colliers Wood,3,3,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.418156857142854,-0.1780102857142857
+940GZZLUCSM,Chesham,9,9,metropolitan,True,True,4.0,False,False,False,False,0,0,1,1,1.0,2,0,2,False,1,0,1,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.70531433333334,-0.6110553333333333
+940GZZLUCTN,Camden Town,2,2,northern,True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,2,0,0.5,0,0,,,0,0,0,32.5,Poor (0-39),51.53932569999999,-0.1424887
+940GZZLUCWL,Chigwell,4,4,central,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.6178036,0.0748738
+940GZZLUCWP,Chiswick Park,3,3,district,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.494418125,-0.267852375
+940GZZLUCXY,Croxley,7,7,metropolitan,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.64710985714286,-0.4414081428571429
+940GZZLUDBN,Debden,6,6,central,True,True,3.0,True,False,False,False,2,0,2,2,1.0,2,0,2,False,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.64533614285715,0.08398628571428571
+940GZZLUDGE,Dagenham East,5,5,district,True,False,,False,False,False,False,0,0,3,3,1.0,2,0,2,False,3,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.544151666666664,0.1658315
+940GZZLUDGY,Dagenham Heathway,5,5,district,True,False,,False,False,False,False,0,0,2,2,1.0,3,1,3,False,2,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.541682333333334,0.1472165
+940GZZLUDOH,Dollis Hill,3,3,jubilee,False,False,,False,False,False,False,0,0,2,2,1.0,3,1,3,True,2,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.55211214285714,-0.23888042857142858
+940GZZLUEAE,Eastcote,5,5,"metropolitan, piccadilly",False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.57649942857143,-0.39707442857142855
+940GZZLUEAN,East Acton,2,2,central,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51665966666667,-0.24755649999999998
+940GZZLUECM,Ealing Common,3,3,"district, piccadilly",True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,4,0,3,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51016983333333,-0.28813916666666667
+940GZZLUECT,Earl's Court,1|2,1,"district, piccadilly",True,False,,False,False,False,False,4,0,6,6,1.0,0,0,0,,6,6,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.49156178571428,-0.1940135
+940GZZLUEFY,East Finchley,3,3,northern,True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.587044285714285,-0.16464199999999998
+940GZZLUEGW,Edgware,5,5,northern,True,False,,True,False,False,False,2,0,3,3,1.0,0,0,0,,3,3,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.61365675,-0.27537725
+940GZZLUEHM,East Ham,3|4,3,"district, hammersmith-city",True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,4,4,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.53923557142857,0.05154457142857143
+940GZZLUEMB,Embankment,1,1,"bakerloo, circle, district, northern",True,False,,False,False,False,False,0,0,6,6,1.0,0,0,0,,8,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.507083571428566,-0.12241378571428571
+940GZZLUEPG,Epping,6,6,central,True,True,6.0,False,False,False,False,0,0,2,2,1.0,3,1,3,True,2,0,2,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.69366383333334,0.11383166666666666
+940GZZLUEPK,Elm Park,6,6,district,True,False,,True,False,False,False,0,0,2,2,1.0,3,1,3,False,2,2,0,1.0,0,0,,,0,1,0,60.0,Partial (40-69),51.54979466666666,0.198545
+940GZZLUEPY,East Putney,2|3,2,district,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.45956914285715,-0.21074700000000002
+940GZZLUERB,Edgware Road,1,1,bakerloo,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52039028571429,-0.17001842857142857
+940GZZLUERC,Edgware Road,1,1,"circle, district, hammersmith-city",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,8,0,4,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52001122222222,-0.16737455555555558
+940GZZLUESQ,Euston Square,1,1,"circle, hammersmith-city, metropolitan",True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,6,3,0,0.5,0,0,,,1,0,0,62.5,Partial (40-69),51.52566842857143,-0.13555471428571428
+940GZZLUFBY,Fulham Broadway,2,2,district,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.48021166666666,-0.19517416666666668
+940GZZLUFLP,Fairlop,4,4,central,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.595745666666666,0.09092566666666667
+940GZZLUFYC,Finchley Central,4,4,northern,True,True,6.0,False,False,False,False,2,0,3,3,1.0,1,1,1,False,3,3,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.6012955,-0.192732125
+940GZZLUFYR,Finchley Road,2,2,"jubilee, metropolitan",False,False,,False,False,False,False,0,0,4,4,1.0,2,2,2,True,4,0,3,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.547057083333335,-0.18014708333333332
+940GZZLUGDG,Goodge Street,1,1,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52063457142857,-0.13448142857142859
+940GZZLUGGH,Grange Hill,4,4,central,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.6133556,0.0921052
+940GZZLUGGN,Golders Green,3,3,northern,True,False,,False,False,False,False,2,0,5,5,1.0,0,0,0,,5,0,5,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.572140375000004,-0.194061875
+940GZZLUGHK,Goldhawk Road,2,2,"circle, hammersmith-city",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.50196328571428,-0.22680114285714284
+940GZZLUGPK,Green Park,1,1,"jubilee, piccadilly, victoria",True,False,,False,False,False,False,5,0,6,6,1.0,2,0,0,False,6,6,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.50662847368421,-0.14243521052631578
+940GZZLUGPS,Great Portland Street,1,1,"circle, hammersmith-city, metropolitan",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,6,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.523787999999996,-0.14379799999999998
+940GZZLUGTH,Gants Hill,4,4,central,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.576712125,0.06614637500000001
+940GZZLUGTR,Gloucester Road,1,1,"circle, district, piccadilly",True,False,,False,False,False,False,0,0,5,5,1.0,0,0,0,,6,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.49440445454545,-0.1830169090909091
+940GZZLUHBN,Holborn,1,1,"central, piccadilly",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51739116666667,-0.11978008333333334
+940GZZLUHBT,High Barnet,5,5,northern,True,True,5.0,False,False,False,False,0,0,3,3,1.0,3,1,3,False,3,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.650489875,-0.1944715
+940GZZLUHCH,Hornchurch,6,6,district,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.554126833333335,0.21897366666666665
+940GZZLUHCL,Hendon Central,3|4,3,northern,True,False,,False,False,False,False,1,0,2,2,1.0,1,1,1,False,2,2,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.58321828571429,-0.22662357142857142
+940GZZLUHGD,Hillingdon,6,6,"metropolitan, piccadilly",True,True,6.0,False,False,False,False,2,0,2,2,1.0,3,1,3,False,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.55369455555555,-0.44950644444444443
+940GZZLUHGR,Hanger Lane,3,3,central,False,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52978790909091,-0.2927198181818182
+940GZZLUHGT,Highgate,3,3,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.57759925,-0.14595349999999999
+940GZZLUHLT,Hainault,4,4,central,True,True,4.0,False,False,False,False,3,0,3,3,1.0,1,1,1,False,3,0,3,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.603793714285715,0.09352514285714286
+940GZZLUHNX,Hatton Cross,5|6,5,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.46675942857143,-0.4232195714285715
+940GZZLUHPC,Hyde Park Corner,1,1,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.50302346666667,-0.15240646666666666
+940GZZLUHPK,Holland Park,2,2,central,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.50725725,-0.20550675
+940GZZLUHSK,High Street Kensington,1,1,"circle, district",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,8,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.50079466666667,-0.19261283333333334
+940GZZLUHTD,Hampstead,2|3,2,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.55663825,-0.17824875
+940GZZLUHWC,Hounslow Central,4,4,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.47125283333333,-0.3666593333333334
+940GZZLUHWE,Hounslow East,4,4,piccadilly,True,True,2.0,False,False,False,False,2,0,2,2,1.0,1,1,1,True,2,0,2,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.473327000000005,-0.35646500000000003
+940GZZLUHWT,Hounslow West,5,5,piccadilly,True,True,10.0,False,False,False,False,1,1,2,2,1.0,0,0,0,,2,2,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.47334766666666,-0.38580216666666667
+940GZZLUHWY,Holloway Road,2,2,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.55274357142857,-0.11291185714285715
+940GZZLUICK,Ickenham,6,6,"metropolitan, piccadilly",True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.56233785714286,-0.4426674285714286
+940GZZLUKBN,Kilburn,2,2,jubilee,True,False,,False,False,False,False,1,0,2,2,1.0,3,1,3,True,2,0,2,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.54697466666667,-0.20437416666666666
+940GZZLUKBY,Kingsbury,4,4,jubilee,True,False,,False,False,False,False,2,0,2,2,1.0,3,1,3,True,2,2,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.584948499999996,-0.2787408333333333
+940GZZLUKNB,Knightsbridge,1,1,piccadilly,True,False,,False,False,False,False,3,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.50119505882353,-0.16119217647058826
+940GZZLUKNG,Kennington,1|2,1,northern,True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,4,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.488299999999995,-0.105748375
+940GZZLUKPK,Kilburn Park,2,2,bakerloo,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.535069,-0.19395416666666665
+940GZZLULAD,Ladbroke Grove,2,2,"circle, hammersmith-city",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.517356,-0.2104135
+940GZZLULBN,Lambeth North,1,1,bakerloo,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.49875528571429,-0.11188457142857143
+940GZZLULGN,Loughton,6,6,central,True,False,,False,False,False,False,0,0,4,4,1.0,2,0,2,False,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.6414682,0.055387
+940GZZLULGT,Lancaster Gate,1,1,central,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51180842857143,-0.175174
+940GZZLULRD,Latimer Road,2,2,"circle, hammersmith-city",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51354083333334,-0.2177235
+940GZZLULSQ,Leicester Square,1,1,"northern, piccadilly",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51157976923077,-0.12817592307692308
+940GZZLULYN,Leyton,3,3,central,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.55666933333333,-0.005486
+940GZZLULYS,Leytonstone,3|4,3,central,True,False,,False,False,False,False,0,0,3,3,1.0,2,0,2,False,3,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.568360857142856,0.008218142857142858
+940GZZLUMBA,Marble Arch,1,1,central,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51269295238095,-0.1585937619047619
+940GZZLUMDN,Morden,4,4,northern,True,False,,False,False,False,False,2,0,5,5,1.0,2,1,2,True,5,5,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.402249142857144,-0.194646
+940GZZLUMED,Mile End,2,2,"central, district, hammersmith-city",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,6,4,2,0.667,0,0,,,0,0,0,35.0,Poor (0-39),51.52515277777778,-0.033550666666666666
+940GZZLUMHL,Mill Hill East,4,4,northern,True,False,,False,False,False,False,1,0,1,1,1.0,0,0,0,,1,0,1,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.6082678,-0.20989779999999997
+940GZZLUMMT,Monument,1,1,"circle, district",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51078453333333,-0.08648833333333333
+940GZZLUMPK,Moor Park,6|7,6,metropolitan,True,False,,False,False,False,False,0,0,4,4,1.0,2,0,2,False,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.629735857142855,-0.43223042857142857
+940GZZLUMRH,Manor House,2|3,2,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.570755642857144,-0.09590614285714286
+940GZZLUMSH,Mansion House,1,1,"circle, district",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51217209090908,-0.09432127272727273
+940GZZLUMTC,Mornington Crescent,2,2,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.53437275,-0.138435625
+940GZZLUMVL,Maida Vale,2,2,bakerloo,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52976950000001,-0.185694
+940GZZLUNAN,North Acton,2|3,2,central,True,False,,False,False,False,False,0,0,3,3,1.0,0,0,0,,3,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.523368000000005,-0.2594147142857143
+940GZZLUNBP,Newbury Park,4,4,central,True,True,6.0,True,False,False,False,2,0,2,2,1.0,2,0,2,True,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.57546042857143,0.09012385714285713
+940GZZLUNDN,Neasden,3,3,jubilee,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.55407683333333,-0.24996300000000002
+940GZZLUNEN,North Ealing,3,3,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,True,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51757533333333,-0.28919483333333335
+940GZZLUNFD,Northfields,3,3,piccadilly,True,False,,False,False,False,False,0,0,4,4,1.0,2,0,2,False,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.49936766666667,-0.314381
+940GZZLUNGW,North Greenwich,2|3,2,jubilee,True,True,19.0,True,False,False,False,3,0,3,3,1.0,3,1,3,True,3,0,0,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.500398000000004,0.004092571428571429
+940GZZLUNHA,North Harrow,5,5,metropolitan,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.58487,-0.36239542857142854
+940GZZLUNHG,Notting Hill Gate,1|2,1,"central, circle, district",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,6,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.50904453846154,-0.1963413846153846
+940GZZLUNHT,Northolt,5,5,central,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,True,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.54827933333333,-0.36851966666666663
+940GZZLUNKP,Northwick Park,4,4,metropolitan,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.578564428571426,-0.3179972857142857
+940GZZLUNOW,Northwood,6,6,metropolitan,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.61105166666667,-0.42376400000000003
+940GZZLUNWH,Northwood Hills,6,6,metropolitan,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.600613833333334,-0.40936616666666664
+940GZZLUOAK,Oakwood,5,5,piccadilly,True,True,6.0,False,False,False,False,1,0,2,2,1.0,2,0,2,False,2,2,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.64756214285715,-0.13186085714285714
+940GZZLUOSY,Osterley,4,4,piccadilly,True,False,,False,False,False,False,2,0,2,2,1.0,2,0,2,False,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.48118685714286,-0.3518317142857143
+940GZZLUOVL,Oval,2,2,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.481976714285715,-0.11254485714285714
+940GZZLUOXC,Oxford Circus,1,1,"bakerloo, central, victoria",True,False,,False,False,False,False,0,0,6,6,1.0,0,0,0,,6,2,2,0.333,0,0,,,0,0,0,30.0,Poor (0-39),51.51532445454546,-0.14186977272727272
+940GZZLUPCC,Piccadilly Circus,1,1,"bakerloo, piccadilly",True,False,,False,False,False,False,0,0,4,4,1.0,2,0,0,False,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.50986305,-0.13493614999999998
+940GZZLUPCO,Pimlico,1,1,victoria,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.4892294,-0.13359110000000002
+940GZZLUPKR,Park Royal,3,3,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,True,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52694785714285,-0.28421814285714286
+940GZZLUPLW,Plaistow,3,3,"district, hammersmith-city",True,False,,False,False,False,False,0,0,3,3,1.0,0,0,0,,6,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.531382428571426,0.017308857142857143
+940GZZLUPNR,Pinner,5,5,metropolitan,True,False,,False,False,False,False,2,0,2,2,1.0,3,1,3,False,2,2,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.59261633333333,-0.3810351111111111
+940GZZLUPRD,Preston Road,4,4,metropolitan,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.572026666666666,-0.2950735
+940GZZLUPSG,Parsons Green,2,2,district,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.47524814285714,-0.20115657142857143
+940GZZLUPVL,Perivale,4,4,central,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.53666057142857,-0.3234994285714286
+940GZZLUPYB,Putney Bridge,2,2,district,False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.468188,-0.2092294285714286
+940GZZLUQBY,Queensbury,4,4,jubilee,True,False,,False,False,False,False,0,0,2,2,1.0,3,1,3,True,2,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.594201166666664,-0.28577816666666667
+940GZZLUQWY,Queensway,1,1,central,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.510433375,-0.187208
+940GZZLURBG,Redbridge,4,4,central,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.57633285714286,0.04573685714285714
+940GZZLURGP,Regent's Park,1,1,bakerloo,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.523373666666664,-0.14653933333333333
+940GZZLURSG,Ruislip Gardens,5,5,central,False,False,,False,False,False,False,0,0,2,2,1.0,1,1,1,False,2,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.56060371428571,-0.410873
+940GZZLURSM,Ruislip Manor,6,6,"metropolitan, piccadilly",True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.573334875,-0.412995875
+940GZZLURSP,Ruislip,6,6,"metropolitan, piccadilly",True,True,4.0,False,False,False,False,0,0,2,2,1.0,2,0,2,False,4,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.57147466666667,-0.42144800000000004
+940GZZLURSQ,Russell Square,1,1,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52314885714286,-0.1245022857142857
+940GZZLURVP,Ravenscourt Park,2,2,district,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.494231,-0.23589914285714286
+940GZZLURVY,Roding Valley,4,4,central,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.61718871428571,0.04373314285714286
+940GZZLURYL,Rayners Lane,5,5,"metropolitan, piccadilly",True,True,6.0,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,4,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.57512416666666,-0.3710198333333334
+940GZZLURYO,Royal Oak,2,2,"circle, hammersmith-city",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.5191725,-0.18863516666666666
+940GZZLUSBM,Shepherd's Bush Market,2,2,"circle, hammersmith-city",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.505798666666664,-0.22637816666666666
+940GZZLUSEA,South Ealing,3,3,piccadilly,True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.5011125,-0.307091
+940GZZLUSFB,Stamford Brook,2,2,district,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.49494742857143,-0.2455544285714286
+940GZZLUSFS,Southfields,3,3,district,True,False,,True,False,False,False,1,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.44509314285715,-0.20657642857142858
+940GZZLUSGN,Stepney Green,2,2,"district, hammersmith-city",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.521877857142854,-0.046792571428571426
+940GZZLUSGT,Southgate,4,4,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.632322428571435,-0.1279104285714286
+940GZZLUSHH,South Harrow,5,5,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.564739857142854,-0.35261514285714285
+940GZZLUSJP,St James's Park,1,1,"circle, district",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.4992275,-0.1341739
+940GZZLUSJW,St John's Wood,2,2,jubilee,True,False,,False,False,False,False,0,0,2,2,1.0,3,1,3,True,2,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.53466716666667,-0.17409116666666669
+940GZZLUSKS,South Kensington,1,1,"circle, district, piccadilly",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,6,0,1,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.49422714285714,-0.17363892857142857
+940GZZLUSKW,Stockwell,2,2,"northern, victoria",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,4,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.4721714,-0.1227177
+940GZZLUSNB,Snaresbrook,4,4,central,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.580954399999996,0.0215576
+940GZZLUSPU,St Paul's,1,1,central,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.515204857142855,-0.097951
+940GZZLUSSQ,Sloane Square,1,1,"circle, district",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.492337000000006,-0.15636014285714284
+940GZZLUSTM,Stanmore,5,5,jubilee,True,True,6.0,False,False,False,False,0,0,3,3,1.0,3,1,3,False,3,0,3,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.61960025,-0.30304237500000003
+940GZZLUSUH,Sudbury Hill,4,4,piccadilly,True,False,,False,False,False,False,2,0,2,2,1.0,2,0,2,False,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.55687066666667,-0.3364401666666666
+940GZZLUSUT,Sudbury Town,4,4,piccadilly,True,True,3.0,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.55063877777778,-0.315804
+940GZZLUSWC,Swiss Cottage,2,2,jubilee,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.543435699999996,-0.1748707
+940GZZLUSWF,South Woodford,4,4,central,True,True,4.0,True,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.59187440000001,0.027592099999999998
+940GZZLUSWK,Southwark,1,1,jubilee,True,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.50409311111111,-0.10541211111111111
+940GZZLUSWN,South Wimbledon,3|4,3,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.415332666666664,-0.1922151666666667
+940GZZLUTAW,Totteridge & Whetstone,4,4,northern,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.630378,-0.1789565
+940GZZLUTBC,Tooting Bec,3,3,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.43562920000001,-0.1594197
+940GZZLUTBY,Tooting Broadway,3,3,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.427801428571435,-0.16808314285714285
+940GZZLUTFP,Tufnell Park,2,2,northern,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.55673233333333,-0.13793722222222224
+940GZZLUTHB,Theydon Bois,6,6,central,True,True,3.0,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,1,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.67145571428572,0.10315614285714285
+940GZZLUTMP,Temple,1,1,"circle, district",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51094116666667,-0.11426533333333333
+940GZZLUTNG,Turnham Green,2|3,2,"district, piccadilly",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.49524622222222,-0.25470299999999996
+940GZZLUTPN,Turnpike Lane,3,3,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.59037988888889,-0.1029951111111111
+940GZZLUTWH,Tower Hill,1,1,"circle, district",True,False,,False,False,False,False,2,0,3,3,1.0,0,0,0,,6,0,6,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.50989928571429,-0.07676328571428571
+940GZZLUUPB,Upminster Bridge,6,6,district,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.558625,0.23545933333333333
+940GZZLUUPK,Upton Park,3,3,"district, hammersmith-city",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.535321875,0.035001000000000004
+940GZZLUUPY,Upney,4,4,district,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.5383425,0.10112733333333333
+940GZZLUUXB,Uxbridge,6,6,"metropolitan, piccadilly",True,False,,False,False,False,False,0,0,4,4,1.0,3,1,3,True,8,0,8,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.546651250000004,-0.478465125
+940GZZLUWAF,Watford,7,7,metropolitan,False,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.657390666666664,-0.417651
+940GZZLUWCY,White City,2,2,central,True,False,,False,False,False,False,0,0,4,4,1.0,2,0,2,False,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.51197883333333,-0.22442566666666666
+940GZZLUWFN,West Finchley,4,4,northern,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,True,2,0,1,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.609319625000005,-0.1886135
+940GZZLUWHP,West Hampstead,2,2,jubilee,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.546709,-0.19068583333333333
+940GZZLUWHW,West Harrow,5,5,metropolitan,True,False,,False,False,False,False,0,0,2,2,1.0,3,1,3,True,2,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.579874857142855,-0.3531627142857143
+940GZZLUWIG,Willesden Green,2|3,2,"jubilee, metropolitan",True,False,,False,False,False,False,0,0,4,4,1.0,2,1,2,False,4,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.549231444444445,-0.22158288888888888
+940GZZLUWIP,Wimbledon Park,3,3,district,True,False,,False,False,False,False,1,0,2,2,1.0,0,0,0,,2,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.4344922,-0.1995176
+940GZZLUWKA,Warwick Avenue,2,2,bakerloo,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.523211571428575,-0.18357914285714289
+940GZZLUWKN,West Kensington,2,2,district,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.490542500000004,-0.206614
+940GZZLUWLA,Wood Lane,2,2,"circle, hammersmith-city",True,False,,False,False,False,False,4,0,2,2,1.0,1,1,1,True,4,0,0,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.5097972,-0.2242798
+940GZZLUWOF,Woodford,4,4,central,True,True,10.0,False,False,False,False,0,0,3,3,1.0,2,0,2,False,3,0,3,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.607312125,0.034255875
+940GZZLUWOG,Wood Green,3,3,piccadilly,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.5974415,-0.1098905
+940GZZLUWOP,Woodside Park,4,4,northern,True,True,5.0,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,2,0,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.617908625,-0.18542925
+940GZZLUWRR,Warren Street,1,1,"northern, victoria",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52441216666667,-0.13830333333333333
+940GZZLUWSD,Wanstead,4,4,central,True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.57552957142857,0.028512000000000003
+940GZZLUWSP,Westbourne Park,2,2,"circle, hammersmith-city",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.520998999999996,-0.201084
+940GZZLUWTA,West Acton,3,3,central,True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,2,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.517955666666666,-0.280756
+940GZZLUWYP,Wembley Park,4,4,"jubilee, metropolitan",True,True,6.0,False,False,False,False,5,0,6,6,1.0,3,1,3,True,6,6,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.56342241666667,-0.27960433333333334
+HUBAMR,Amersham,9,9,"metropolitan, national-rail",True,True,,False,False,False,False,2,0,3,3,1.0,2,0,2,False,6,6,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.67410544444444,-0.607538
+HUBBAL,Balham,3,3,"national-rail, northern",True,False,,False,False,False,False,1,0,4,4,1.0,0,0,0,,4,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.44337030769231,-0.15250815384615385
+HUBBAN,Bank,1,1,"central, dlr, northern, waterloo-city",True,False,,False,False,False,False,10,0,8,8,1.0,1,1,1,False,8,2,2,0.25,0,0,,,1,1,0,78.8,Good (70-100),51.512863606060606,-0.08882566666666666
+HUBBEK,Beckenham Junction,4|Trams fare zone,4,"national-rail, tram",False,True,88.0,False,False,False,False,0,0,5,5,1.0,3,1,3,False,5,1,4,0.2,0,0,,,0,1,0,48.0,Partial (40-69),51.410887153846154,-0.02592430769230769
+HUBBFR,Blackfriars,1,1,"circle, district, national-rail",True,False,,True,False,False,False,6,0,6,6,1.0,3,1,0,True,8,4,0,0.5,0,0,,,1,1,0,82.5,Good (70-100),51.51128478571429,-0.10334549999999999
+HUBBHO,Blackhorse Road,3,3,"suffragette, victoria",True,False,,False,False,False,False,2,0,4,4,1.0,0,0,0,,4,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.58685154545455,-0.04124472727272727
+HUBBIR,Birkbeck,4|Trams fare zone,4,"national-rail, tram",False,False,,False,False,False,False,0,0,3,2,0.667,0,0,0,,3,0,0,0.0,0,0,,,0,0,0,16.7,Poor (0-39),51.403715,-0.055515999999999996
+HUBBKG,Barking,4,4,"district, hammersmith-city, national-rail, suffragette",True,False,,True,False,False,False,1,0,8,8,1.0,3,1,3,True,13,0,7,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.53978284615384,0.0805983076923077
+HUBBRX,Brixton,2,2,"national-rail, victoria",True,False,,False,False,False,False,2,0,4,4,1.0,0,0,0,,4,2,0,0.5,0,0,,,1,0,0,62.5,Partial (40-69),51.46254171428571,-0.11449857142857144
+HUBBSH,Bushey,8,8,"lioness, national-rail",False,False,,False,False,False,False,0,0,6,0,0.0,0,0,0,,6,0,0,0.0,0,0,,,0,0,0,0.0,Poor (0-39),51.64570746153846,-0.38506907692307696
+HUBCAN,Canning Town,2|3,2,"dlr, jubilee",True,False,,False,False,False,False,4,0,6,6,1.0,0,0,0,,6,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.5140979375,0.0083120625
+HUBCAW,Canary Wharf,2,2,"dlr, elizabeth, jubilee",True,False,,False,False,False,False,10,0,10,10,1.0,3,1,3,False,10,2,0,0.2,0,0,,,1,1,0,78.0,Good (70-100),51.504889,-0.01939904166666667
+HUBCFO,Chalfont & Latimer,8,8,"metropolitan, national-rail",True,True,5.0,False,False,False,False,0,0,3,3,1.0,2,0,2,False,5,4,4,0.8,0,0,,,0,0,0,37.0,Poor (0-39),51.6679316923077,-0.5608556923076923
+HUBCHX,Charing Cross,1,1,"bakerloo, national-rail, northern",True,False,,False,False,False,False,0,0,10,10,1.0,3,1,3,True,10,0,6,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.50816303846154,-0.12595373076923078
+HUBCLJ,Clapham Junction,2,2,"mildmay, national-rail, windrush",False,False,,False,False,False,False,4,0,3,3,1.0,3,1,3,True,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.464466900000005,-0.1699599
+HUBCLW,Chorleywood,7,7,"metropolitan, national-rail",True,True,6.0,False,False,False,False,0,0,2,2,1.0,2,0,2,False,4,4,4,1.0,0,0,,,0,0,0,40.0,Partial (40-69),51.65421475,-0.5185535833333333
+HUBCST,Cannon Street,1,1,"circle, district, national-rail",True,False,,False,False,False,False,2,0,9,9,1.0,3,1,3,True,11,0,9,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.5112602,-0.0904536
+HUBCUT,Cutty Sark for Maritime Greenwich,2|3,2,dlr,False,False,,True,False,False,False,1,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.481635833333335,-0.010758666666666666
+HUBCYP,Crystal Palace,3|4,3,"national-rail, windrush",False,True,2.0,False,False,False,False,3,0,6,6,1.0,3,1,3,True,6,0,6,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.417601000000005,-0.07250333333333334
+HUBEAL,Ealing Broadway,3,3,"central, district, elizabeth, national-rail",True,False,,False,False,False,False,4,0,9,9,1.0,3,1,3,True,13,3,10,0.231,0,0,,,1,1,0,78.5,Good (70-100),51.51488657142857,-0.30161921428571425
+HUBECY,East Croydon,5|Trams fare zone,5,"national-rail, tram",False,False,,False,False,False,False,4,0,8,8,1.0,0,0,0,,8,1,6,0.125,0,0,,,1,0,0,56.9,Partial (40-69),51.375374307692304,-0.09292999999999998
+HUBELM,Elmers End,4|Trams fare zone,4,"national-rail, tram",False,True,108.0,False,False,False,False,0,0,3,3,1.0,1,0,1,False,3,1,2,0.333,0,0,,,0,0,0,30.0,Poor (0-39),51.39847985714285,-0.049636428571428574
+HUBEPH,Elephant & Castle,1|2,1,"bakerloo, national-rail, northern",True,False,,False,False,False,False,2,0,8,4,0.5,0,0,0,,8,1,0,0.125,0,0,,,1,0,0,44.4,Partial (40-69),51.49524027272727,-0.1006420909090909
+HUBEUS,Euston,1,1,"lioness, national-rail, northern, victoria",True,False,,True,False,False,False,0,0,8,8,1.0,3,1,3,True,10,4,3,0.4,0,0,,,0,1,0,51.0,Partial (40-69),51.52799,-0.13347616666666667
+HUBFPK,Finsbury Park,2,2,"national-rail, piccadilly, victoria",True,False,,True,False,False,False,5,0,6,6,1.0,0,0,0,,6,4,2,0.667,0,0,,,1,0,0,65.0,Partial (40-69),51.56462381818182,-0.10653850000000001
+HUBGFD,Greenford,4,4,"central, national-rail",True,False,,False,False,False,False,1,0,3,3,1.0,0,0,0,,3,0,3,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.54240275,-0.345674
+HUBGNW,Greenwich,2|3,2,"dlr, national-rail",False,True,1.0,False,False,False,False,2,0,4,4,1.0,0,0,0,,4,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.4780962,-0.0147009
+HUBGUN,Gunnersbury,3,3,"district, mildmay",False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,4,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.49165688888889,-0.2751383333333333
+HUBH13,Heathrow Terminals 2 & 3,6,6,"elizabeth, national-rail, piccadilly",True,False,,True,False,False,False,2,0,4,4,1.0,3,1,3,True,6,6,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.471317538461534,-0.453178
+HUBHDN,Harlesden,3,3,"bakerloo, lioness",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.536209375,-0.257544375
+HUBHHY,Highbury & Islington,2,2,"mildmay, national-rail, victoria, windrush",True,False,,False,False,False,False,3,0,8,8,1.0,0,0,0,,8,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.54646225,-0.10379616666666668
+HUBHMS,Hammersmith,2,2,"circle, district, hammersmith-city, piccadilly",True,False,,False,False,False,False,2,0,7,7,1.0,0,0,0,,10,10,0,1.0,0,0,,,1,0,0,70.0,Good (70-100),51.49279586666667,-0.22415106666666668
+HUBHOH,Harrow-on-the-Hill,5,5,"metropolitan, national-rail",True,False,,False,False,False,False,4,0,6,6,1.0,2,0,2,True,7,5,2,0.714,0,0,,,1,0,0,65.7,Partial (40-69),51.57914622222222,-0.33688844444444443
+HUBHRW,Harrow & Wealdstone,5,5,"bakerloo, lioness, national-rail",True,True,5.0,False,False,False,False,4,0,6,6,1.0,0,0,0,,8,0,8,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.59223769230769,-0.33487753846153845
+HUBHX4,Heathrow Terminal 4,6,6,"elizabeth, piccadilly",True,False,,True,False,False,False,2,0,3,3,1.0,3,1,3,False,3,3,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.45904866666667,-0.44632611111111115
+HUBHX5,Heathrow Terminal 5,6,6,"elizabeth, national-rail, piccadilly",False,False,,True,False,False,False,2,0,4,4,1.0,3,1,3,True,6,4,2,0.667,0,0,,,1,1,0,85.0,Good (70-100),51.471876,-0.4877722857142857
+HUBIMP,Imperial Wharf,2,2,"mildmay, national-rail",False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,4,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.47522342857143,-0.182997
+HUBKGX,King's Cross St Pancras,1,1,"circle, hammersmith-city, metropolitan, national-rail, northern, piccadilly, victoria",True,False,,True,False,False,False,13,0,29,27,0.931,3,1,3,True,33,14,19,0.424,0,0,,,1,1,0,79.6,Good (70-100),51.53103491836735,-0.12428410204081633
+HUBKNL,Kensal Green,2,2,"bakerloo, lioness",False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.53040888888889,-0.22486377777777777
+HUBKNT,Kenton,4,4,"bakerloo, lioness",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.58170675,-0.31699325
+HUBKPA,Kensington (Olympia),2,2,"district, mildmay, national-rail",True,False,,False,False,False,False,0,0,3,3,1.0,3,1,3,True,5,0,5,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.49758825,-0.209796125
+HUBKTN,Kentish Town,2,2,"national-rail, northern",True,False,,False,False,False,False,0,0,6,2,0.333,0,0,0,,6,0,0,0.0,0,0,,,0,0,0,8.3,Poor (0-39),51.55050891666667,-0.14040508333333332
+HUBKWG,Kew Gardens,3|4,3,"district, mildmay",True,False,,False,False,False,False,0,0,2,2,1.0,2,0,2,False,4,0,3,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.4771046,-0.2852684
+HUBLBG,London Bridge,1,1,"jubilee, national-rail, northern",True,False,,True,False,False,False,5,0,6,6,1.0,3,1,3,True,6,6,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.505391321428576,-0.08720653571428572
+HUBLCY,London City Airport,3,3,dlr,False,False,,False,False,False,False,2,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.50329071428571,0.04939657142857142
+HUBLEW,Lewisham,2|3,2,dlr,False,False,,False,False,False,False,0,0,2,2,1.0,3,1,3,False,2,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.46476385714286,-0.012890285714285714
+HUBLHS,Limehouse,2,2,"dlr, national-rail",False,False,,False,False,False,False,5,5,4,4,1.0,0,0,0,,4,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.512478125,-0.03984675
+HUBLST,Liverpool Street,1,1,"central, circle, elizabeth, hammersmith-city, metropolitan, national-rail, weaver",True,False,,True,False,False,False,4,0,23,23,1.0,3,1,3,True,38,5,28,0.132,0,0,,,1,1,0,77.0,Good (70-100),51.517705541666665,-0.08200729166666666
+HUBMJT,Mitcham Junction,4|Trams fare zone,4,"national-rail, tram",False,True,18.0,False,False,False,False,0,0,4,2,0.5,1,1,1,False,4,2,2,0.5,0,0,,,0,1,0,40.0,Partial (40-69),51.39310685714286,-0.1580297142857143
+HUBMYB,Marylebone,1,1,"bakerloo, national-rail",True,False,,False,False,False,False,0,0,8,8,1.0,3,1,3,True,8,0,6,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.522291,-0.16295844444444443
+HUBNWB,North Wembley,4,4,"bakerloo, lioness",False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.562554125,-0.304166
+HUBNWD,Norwood Junction,4,4,"national-rail, windrush",False,True,3.0,False,False,False,False,0,0,5,4,0.8,3,1,3,True,6,0,1,0.0,0,0,,,0,1,0,40.0,Partial (40-69),51.39756163636364,-0.0744159090909091
+HUBNWX,New Cross,2,2,"national-rail, windrush",False,False,,False,False,False,False,2,0,4,4,1.0,3,1,3,False,4,0,4,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.47646771428572,-0.03257128571428571
+HUBNXG,New Cross Gate,2,2,"national-rail, windrush",False,False,,False,False,False,False,3,0,5,5,1.0,0,0,0,,5,0,5,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.47527242857143,-0.04067242857142857
+HUBOLD,Old Street,1,1,"national-rail, northern",True,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.52567425,-0.08752775
+HUBPAD,Paddington,1,1,"bakerloo, circle, district, elizabeth, hammersmith-city, national-rail",True,False,,True,False,False,False,10,0,22,22,1.0,3,1,3,True,36,6,26,0.167,0,0,,,1,1,0,77.5,Good (70-100),51.5166965945946,-0.17663754054054054
+HUBQPW,Queen's Park,2,2,"bakerloo, lioness, national-rail",True,False,,False,False,False,False,0,0,6,6,1.0,0,0,0,,8,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.533957199999996,-0.20497079999999998
+HUBRIC,Rickmansworth,7,7,"metropolitan, national-rail",True,True,12.0,False,False,False,False,0,0,2,2,1.0,2,0,2,False,4,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.640236333333334,-0.4734416666666667
+HUBRMD,Richmond,4,4,"district, mildmay, national-rail",True,True,1.0,True,False,False,False,2,0,7,7,1.0,3,1,0,True,11,0,3,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.4632251,-0.30129890000000004
+HUBSBP,Stonebridge Park,3,3,"bakerloo, lioness",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.54390875,-0.275652125
+HUBSDE,Shadwell,2,2,"dlr, windrush",True,False,,False,False,False,False,1,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.51142983333333,-0.05638283333333333
+HUBSOK,South Kenton,4,4,"bakerloo, lioness",True,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,0,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.570462375,-0.308419
+HUBSPB,Shepherd's Bush,2,2,"central, mildmay, national-rail",True,False,,False,False,False,False,2,0,4,4,1.0,0,0,0,,6,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.50505553333333,-0.21804626666666668
+HUBSRA,Stratford,2|3,2,"central, dlr, elizabeth, jubilee, mildmay, national-rail",True,False,,True,False,False,False,17,0,14,14,1.0,4,2,4,True,16,0,9,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.5418238076923,-0.0032949615384615383
+HUBSRU,South Ruislip,5,5,"central, national-rail",True,False,,False,False,False,False,0,0,4,4,1.0,1,1,1,False,4,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.55694988888889,-0.39876100000000003
+HUBSVS,Seven Sisters,3,3,"national-rail, victoria, weaver",True,False,,False,False,False,False,0,0,5,5,1.0,3,1,3,True,7,0,0,0.0,0,0,,,0,1,0,45.0,Partial (40-69),51.582819941176474,-0.073726
+HUBSYD,Sydenham,3,3,"national-rail, windrush",False,False,,False,False,False,False,0,0,2,2,1.0,0,0,0,,4,0,4,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.42751125,-0.054364
+HUBTCR,Tottenham Court Road,1,1,"central, elizabeth, northern",False,False,,False,False,False,False,9,0,6,6,1.0,1,1,1,False,6,4,2,0.667,0,0,,,1,1,0,85.0,Good (70-100),51.516021074074075,-0.13104185185185185
+HUBTOG,Tower Gateway,1,1,dlr,False,False,,False,False,False,False,2,2,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.5105262,-0.07424280000000001
+HUBTOM,Tottenham Hale,3,3,"national-rail, victoria",True,False,,True,False,False,False,3,0,5,5,1.0,3,1,2,False,5,2,3,0.4,0,0,,,1,1,0,81.0,Good (70-100),51.58839923076923,-0.06041823076923077
+HUBUPM,Upminster,6,6,"district, liberty, national-rail",True,True,9.0,True,False,False,False,3,0,7,7,1.0,3,1,3,False,7,0,3,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.558994000000006,0.25127641666666667
+HUBVIC,Victoria,1,1,"circle, district, national-rail, victoria",True,False,,True,False,False,False,6,0,23,23,1.0,6,2,6,True,25,2,23,0.08,0,0,,,1,1,0,76.2,Good (70-100),51.495975200000004,-0.1435078
+HUBVXH,Vauxhall,1|2,1,"national-rail, victoria",True,False,,True,False,False,False,6,0,10,10,1.0,2,0,2,False,10,2,8,0.2,0,0,,,1,0,0,58.0,Partial (40-69),51.48592061111111,-0.12365350000000001
+HUBWAT,Waterloo,1,1,"bakerloo, jubilee, northern, waterloo-city",True,False,,True,False,False,False,4,0,8,8,1.0,3,1,3,True,8,0,1,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.50332212903226,-0.11341522580645161
+HUBWBP,West Brompton,2,2,"district, mildmay, national-rail",True,False,,False,False,False,False,2,0,4,4,1.0,0,0,0,,6,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.48715425,-0.1953225
+HUBWCY,West Croydon,5|Trams fare zone,5,"national-rail, tram, windrush",False,False,,False,False,False,False,0,0,4,4,1.0,0,0,0,,5,1,4,0.2,0,0,,,0,0,0,28.0,Poor (0-39),51.37856309090909,-0.10236972727272727
+HUBWEH,West Ham,2|3,2,"district, dlr, hammersmith-city, jubilee, national-rail",True,False,,False,False,False,False,5,0,8,8,1.0,0,0,0,,10,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.528040818181815,0.004887181818181818
+HUBWFJ,Watford Junction,Outside,Unknown,"lioness, national-rail",False,True,10.0,False,False,False,False,3,0,10,10,1.0,3,1,3,True,10,0,10,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.66358760000001,-0.3963097
+HUBWHC,Walthamstow Central,3,3,"victoria, weaver",True,True,8.0,False,False,False,False,0,0,4,4,1.0,0,0,0,,4,0,2,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.58296435714286,-0.0199615
+HUBWIJ,Willesden Junction,2|3,2,"bakerloo, lioness, mildmay",True,False,,False,False,False,False,2,0,5,5,1.0,3,1,3,True,8,0,8,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.53231576923077,-0.243633
+HUBWIM,Wimbledon,3|Trams fare zone,3,"district, national-rail, tram",True,True,2.0,True,False,False,False,4,0,11,11,1.0,3,1,3,True,11,5,6,0.455,0,0,,,1,1,0,81.8,Good (70-100),51.42129554545454,-0.20608154545454546
+HUBWMB,Wembley Central,4,4,"bakerloo, lioness, national-rail",True,False,,False,False,False,False,4,0,6,6,1.0,3,1,3,False,8,0,8,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.551991,-0.2963494285714286
+HUBWRU,West Ruislip,6,6,"central, national-rail",True,False,,False,False,False,False,0,0,4,4,1.0,2,0,2,False,4,0,1,0.0,0,0,,,0,0,0,25.0,Poor (0-39),51.56965511111111,-0.437494
+HUBWSM,Westminster,1,1,"circle, district, jubilee",True,False,,False,False,False,False,4,0,4,4,1.0,2,0,0,False,6,0,4,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.50113415384615,-0.125207
+HUBWWA,Woolwich Arsenal,4,4,"dlr, national-rail",False,False,,False,False,False,False,3,0,4,2,0.5,0,0,0,,4,0,2,0.0,0,0,,,1,0,0,42.5,Partial (40-69),51.49011127272727,0.06901854545454546
+HUBZCW,Canada Water,2,2,"jubilee, windrush",True,False,,False,False,False,False,3,0,4,4,1.0,0,0,0,,4,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.4979853,-0.0496969
+HUBZFD,Farringdon,1,1,"circle, elizabeth, hammersmith-city, metropolitan, national-rail",False,False,,False,False,False,False,8,0,6,6,1.0,4,2,4,True,10,4,6,0.4,0,0,,,1,1,0,81.0,Good (70-100),51.520334772727274,-0.10453377272727273
+HUBZMG,Moorgate,1,1,"circle, hammersmith-city, metropolitan, national-rail, northern",False,False,,False,False,False,False,4,0,8,8,1.0,0,0,0,,16,0,2,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.51835865217391,-0.08857152173913044
+HUBZWL,Whitechapel,2,2,"district, elizabeth, hammersmith-city, windrush",False,False,,False,False,False,False,8,0,6,6,1.0,1,1,1,True,8,2,1,0.25,0,0,,,1,1,0,78.8,Good (70-100),51.51959466666666,-0.05994666666666667
+940GZZNEUGST,Nine Elms,1,1,northern,True,False,,False,False,False,False,1,0,2,2,1.0,1,1,1,True,2,0,0,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.479833500000005,-0.12851533333333334
+940GZZBPSUST,Battersea Power Station,1,1,northern,True,False,,False,False,False,False,4,0,2,2,1.0,1,1,1,True,2,0,0,0.0,0,0,,,1,1,0,75.0,Good (70-100),51.47972077777778,-0.14273633333333333
+910GWOLWXR,Woolwich,4,4,elizabeth,True,False,,False,False,False,False,1,0,2,2,1.0,0,0,0,,2,0,0,0.0,0,0,,,1,0,0,55.0,Partial (40-69),51.491886,0.07061366666666667
+910GBARKRIV,Barking Riverside,4,4,suffragette,True,False,,False,False,False,False,2,0,2,2,1.0,1,1,1,True,2,2,0,1.0,0,0,,,1,1,0,90.0,Good (70-100),51.519769833333335,0.11718566666666667
